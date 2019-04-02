@@ -1,2 +1,2 @@
-# MaptimeScratch
-Setting up tutorials for mapping tech
+# Maptime Mile High
+Web Mapping with Leaflet and qgis2web session
